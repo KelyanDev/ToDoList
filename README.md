@@ -23,10 +23,10 @@ In this web app, you can manage your tasks by adding, editing, or removing them
 <h2> Installation: </h2>
 
 >[!TIP]
->You'll need to install dependencies to run the code correctly:   
->First, install all these files in a directory
->Then, in your terminal, go the the main directory of this app, then run the command "npm install"
->Finally, to launch the app, in the same directory, just run the command "npm start"
+>You'll need to install dependencies to run the code correctly:      
+>First, install all these files in a directory   
+>Then, in your terminal, go the the main directory of this app, then run the command "npm install"   
+>Finally, to launch the app, in the same directory, just run the command "npm start"   
   
 For this to work, you'll need to have NodeJS on your System, aswell as npm  
 
